@@ -13,7 +13,7 @@ const Landing: React.FC = () => {
       {/* Buttons with different sizes and shapes */}
       <div className="mt-6 flex gap-4">
         <Button title="Small Rounded" styles="text-sm rounded-sm" />
-        <Button title="Medium Rounded" styles="text-base rounded-md" />
+        <Button title="Medium Rounded" styles="text-base rounded-lg" />
         <Button title="Large Rounded" styles="text-lg rounded-full" />
       </div>
     </div>
